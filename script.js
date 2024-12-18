@@ -60,3 +60,5 @@ clearButton.addEventListener('click', () => {
 
 // loadBestBand();
 document.addEventListener('DOMContentLoaded', loadBestBand);
+
+// I want to things to appear on screen when saved to localStorage and to be removed when I delete from storage
